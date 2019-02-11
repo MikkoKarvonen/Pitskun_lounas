@@ -1,8 +1,11 @@
+.center{
+    justify-content: center;
+}
+
 .day{
     display: none;
 }
 
-.nav-center{
-    justify-content: center;
+.navbar{
     margin-bottom: 25px;
 }
